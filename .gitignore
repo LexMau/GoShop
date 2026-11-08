@@ -1,0 +1,10 @@
+# Configuraciones de GoLand
+.idea/
+
+# Archivos ejecutables
+*.exe
+*.test
+*.out
+
+# Archivos temporales
+.DS_Store
